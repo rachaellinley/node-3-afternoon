@@ -20,7 +20,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "expres": "0.0.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "massive": "^6.1.4"
   }
 }
